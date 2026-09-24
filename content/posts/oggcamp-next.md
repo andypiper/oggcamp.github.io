@@ -8,7 +8,7 @@ title = 'Oggcamp... "Next"'
 
 We had an excellent time in Manchester at OggCamp 2026 back in April, and we hope that those of you who came along and made the event what it was, also have great memories of the weekend.
 
-OggCamp has always been a celebration of the open source community, bringing together enthusiasts, developers, and contributors from all walks of life. It has also always been volunteer-driven. At the end of this year's event, we asked for anyone interested in keeping things going to come forward and help us shape the future of OggCamp.
+OggCamp has always been a celebration of the open source community, bringing together enthusiasts, developers, and contributors from all walks of life. We think the unconference format makes it a welcoming space for everyone. It has also always been volunteer-driven. At the end of this year's event, we asked for anyone interested in keeping things going to come forward and help us shape the future of OggCamp.
 
 In the past couple of weeks, folks have started to ask about a future event via [our Matrix room](https://matrix.to/#/#oggcamp:matrix.org) and in private channels, so it's time for an update.
 
