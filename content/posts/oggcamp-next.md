@@ -27,6 +27,6 @@ The existing organising team has discussed options, and here's where things stan
 
 A couple of individuals have expressed interest in helping out, but we still need a committed team to take the lead, secure sponsorship, and organise the event.
 
-If you are interested in helping to make the next OggCamp happen, and if you have suggestions for sponsors or venues, please get in touch via [Matrix](https://matrix.to/#/#oggcamp:matrix.org), [Mastodon](https://mastodon.social/@oggcamp), or just contact one of the existing team members (NB as hinted above, we're also busy, and we'll get back to you when we can!).
+If you are interested in helping to make the next OggCamp happen, and if you have suggestions for sponsors or venues, please get in touch via [Matrix](https://matrix.to/#/#oggcamp:matrix.org), [Mastodon](https://mastodon.social/@oggcamp), or contact-at-oggcamp.org on the old electronic mail thingamabob (we'll get back to you when we can, promise!).
 
 We think it's crucial that the UK has an event that is a home for Free Culture, Free and Open Source Software, and like-minded enthusiastic folk. The community has always been the heart of the OggCamp, and with your support, we can ensure that it continues to be a place for everyone that shares these values.
